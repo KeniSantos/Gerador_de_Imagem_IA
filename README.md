@@ -1,7 +1,7 @@
 
 # Gerar variação de imagem com IA
 
-![imagem-dektop]()
+![imagem-dektop](https://github.com/KeniSantos/Gerador_de_Imagem_IA/assets/66180684/5ea39bd6-a249-436b-9476-7ed85248252b)
 
 
 ## Tecnologias
